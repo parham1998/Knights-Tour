@@ -1,4 +1,4 @@
-# Knights-Tour
+# Knights-Tour (warm-up project!)
 Implementation of knight’s tour problem using Warnsdorff's rule with JavaFX
 
 Given an 8x8 board with the knight placed on one of the empty blocks of the board. Moving according to the rules of chess, the knight must visit each square exactly once.
