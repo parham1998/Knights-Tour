@@ -1,7 +1,5 @@
 package knights_tour;
 
-import java.util.Timer;
-import java.util.TimerTask;
 import javafx.scene.Group;
 import javafx.scene.Scene;
 import javafx.scene.canvas.Canvas;
